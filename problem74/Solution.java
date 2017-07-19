@@ -5,7 +5,7 @@ public class Solution {
         int up = 0;
         int down = m - 1;
         int left = 0;
-        int right = n;
+        int right = n; //存在只有一列的情况，所以这块不能为n-1
 
         //二分查找所在行
         while (up < down){
