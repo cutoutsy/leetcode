@@ -18,9 +18,9 @@ class Solution(object):
 	def dfs(root, path):
 	    if root.left is None and root.right is None:
 		self.ans += path,
-	     if root.left:
+	    if root.left:
 		dfs(root.left, path + "->" + str(root.left.val))
-	     if root.right:
+	    if root.right:
 		dfs(root.right, path + "->" + str(root.right.val))
 	dfs(root, str(root.val))
 	return self.ans
