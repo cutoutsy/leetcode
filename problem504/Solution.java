@@ -3,19 +3,15 @@ public class Solution {
         if (num == 0) {
             return "0";
         }
-        StringBuffer ans = new StringBuffer();
         String pre = "";
         if (num < 0) {
             pre = "-";
         }
-        ans.append(pre);
         String res = mod(Math.abs(num), 7);
-        for (int i = res.length() - 1; i >= 0; i--) {
-            ans.append(res.charAt(i));
-        }
-        return ans.toString();
+        
+        return pre + res;
     }
-
+    
     public String mod(int num, int base) {
         StringBuffer sb = new StringBuffer();
         while (num != 0) {
@@ -24,9 +20,8 @@ public class Solution {
             num = num / base;
 
         }
-        return sb.toString();
+        return sb.reverse().toString();
     }
-
 
     public static void main(String[] args) {
         Solution504 solution = new Solution504();
