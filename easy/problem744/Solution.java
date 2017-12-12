@@ -1,6 +1,4 @@
-package io.cutoutsy.easy;
-
-public class Solution744 {
+public class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
         char ans = 0;
         boolean[] alphabet = new boolean[26];
