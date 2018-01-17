@@ -6,7 +6,7 @@
 # 题目分析：
 ## Easy
 [Leetcode 70: Climbing Stairs](https://zhuanlan.zhihu.com/p/32980698)  
-[Leetcode 746: Min Cost Climbing Stairs](https://zhuanlan.zhihu.com/p/32980698)
+[Leetcode 746: Min Cost Climbing Stairs](https://zhuanlan.zhihu.com/p/32980698)  
 [Leetcode 747: Largest Number At Least Twice of Others](https://zhuanlan.zhihu.com/p/32922447)  
 [Leetcode 760 : Find Anagram Mapping](https://zhuanlan.zhihu.com/p/32898667)  
 [Leetcode 762: Prime Number of Set Bits in Binary Representation](https://zhuanlan.zhihu.com/p/32944489)
