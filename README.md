@@ -15,3 +15,5 @@
 [Leetcode 760 : Find Anagram Mapping](https://zhuanlan.zhihu.com/p/32898667)  
 [Leetcode 762: Prime Number of Set Bits in Binary Representation](https://zhuanlan.zhihu.com/p/32944489)  
 [Leetcode 766: Toeplitz Matrix](https://zhuanlan.zhihu.com/p/33194463)  
+## Medium
+[Leetcode 767: Reorganize String](https://zhuanlan.zhihu.com/p/33231348)    
