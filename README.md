@@ -6,9 +6,11 @@
 # 题目分析：
 ## Easy
 [Leetcode 70: Climbing Stairs](https://zhuanlan.zhihu.com/p/32980698)  
+[Leetcode 112: Path Sum](https://zhuanlan.zhihu.com/p/33336607)  
 [Leetcode 231: Power of Two](https://zhuanlan.zhihu.com/p/33133657)  
-[Leetcode 326: Power of Three](https://zhuanlan.zhihu.com/p/33133657)  
+[Leetcode 326: Power of Three](https://zhuanlan.zhihu.com/p/33133657)    
 [Leetcode 342: Power of Four](https://zhuanlan.zhihu.com/p/33133657)  
+[Leetcode 437: Path Sum III](https://zhuanlan.zhihu.com/p/33336607)  
 [Leetcode 572: Subtree of Another Tree](https://zhuanlan.zhihu.com/p/33116824)  
 [Leetcode 746: Min Cost Climbing Stairs](https://zhuanlan.zhihu.com/p/32980698)  
 [Leetcode 747: Largest Number At Least Twice of Others](https://zhuanlan.zhihu.com/p/32922447)  
@@ -16,4 +18,7 @@
 [Leetcode 762: Prime Number of Set Bits in Binary Representation](https://zhuanlan.zhihu.com/p/32944489)  
 [Leetcode 766: Toeplitz Matrix](https://zhuanlan.zhihu.com/p/33194463)  
 ## Medium
-[Leetcode 767: Reorganize String](https://zhuanlan.zhihu.com/p/33231348)    
+[Leetcode 767: Reorganize String](https://zhuanlan.zhihu.com/p/33231348)  
+[Leetcode 769: Max Chunks To Make Sorted](https://zhuanlan.zhihu.com/p/33268136)  
+## Hard  
+[Leetcode 768: Max Chunks To Make Sorted II](https://zhuanlan.zhihu.com/p/33268136)  
