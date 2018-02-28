@@ -11,6 +11,7 @@
 [Leetcode 326: Power of Three](https://zhuanlan.zhihu.com/p/33133657)    
 [Leetcode 342: Power of Four](https://zhuanlan.zhihu.com/p/33133657)  
 [Leetcode 437: Path Sum III](https://zhuanlan.zhihu.com/p/33336607)  
+[Leetcode 459: Repeated Substring Pattern](https://zhuanlan.zhihu.com/p/34090604)
 [Leetcode 572: Subtree of Another Tree](https://zhuanlan.zhihu.com/p/33116824)  
 [Leetcode 746: Min Cost Climbing Stairs](https://zhuanlan.zhihu.com/p/32980698)  
 [Leetcode 747: Largest Number At Least Twice of Others](https://zhuanlan.zhihu.com/p/32922447)  
