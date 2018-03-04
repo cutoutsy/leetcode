@@ -22,5 +22,6 @@
 ## Medium
 [Leetcode 767: Reorganize String](https://zhuanlan.zhihu.com/p/33231348)  
 [Leetcode 769: Max Chunks To Make Sorted](https://zhuanlan.zhihu.com/p/33268136)  
+[Leetcode 794: Valid Tic-Tac-Toe State](https://zhuanlan.zhihu.com/p/34216982)  
 ## Hard  
 [Leetcode 768: Max Chunks To Make Sorted II](https://zhuanlan.zhihu.com/p/33268136)  
