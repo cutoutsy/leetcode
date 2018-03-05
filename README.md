@@ -20,8 +20,10 @@
 [Leetcode 762: Prime Number of Set Bits in Binary Representation](https://zhuanlan.zhihu.com/p/32944489)  
 [Leetcode 766: Toeplitz Matrix](https://zhuanlan.zhihu.com/p/33194463)  
 ## Medium
+[Leetcode 392: Is Subsequence](https://zhuanlan.zhihu.com/p/34230881)  
 [Leetcode 767: Reorganize String](https://zhuanlan.zhihu.com/p/33231348)  
 [Leetcode 769: Max Chunks To Make Sorted](https://zhuanlan.zhihu.com/p/33268136)  
+[Leetcode 792: Number of Matching Subsequences](https://zhuanlan.zhihu.com/p/34230881)  
 [Leetcode 794: Valid Tic-Tac-Toe State](https://zhuanlan.zhihu.com/p/34216982)  
 ## Hard  
 [Leetcode 768: Max Chunks To Make Sorted II](https://zhuanlan.zhihu.com/p/33268136)  
