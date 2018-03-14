@@ -8,6 +8,7 @@
 [Leetcode 38: Count and Say](https://zhuanlan.zhihu.com/p/34300515)  
 [Leetcode 70: Climbing Stairs](https://zhuanlan.zhihu.com/p/32980698)  
 [Leetcode 112: Path Sum](https://zhuanlan.zhihu.com/p/33336607)  
+[Leetcode 225: Implement Stack using Queues](https://zhuanlan.zhihu.com/p/34127474)  
 [Leetcode 231: Power of Two](https://zhuanlan.zhihu.com/p/33133657)  
 [Leetcode 232: Implement Queue using Stacks](https://zhuanlan.zhihu.com/p/34127474)  
 [Leetcode 326: Power of Three](https://zhuanlan.zhihu.com/p/33133657)    
